@@ -1,0 +1,83 @@
+﻿{
+  "CodeGenerationMode": 3,
+  "ContextClassName": "veritabani yonetim sistemleriContext",
+  "ContextNamespace": null,
+  "DefaultDacpacSchema": null,
+  "FilterSchemas": false,
+  "IncludeConnectionString": true,
+  "ModelNamespace": null,
+  "OutputContextPath": null,
+  "OutputPath": "Models",
+  "PreserveCasingWithRegex": true,
+  "ProjectRootNamespace": "VeriCekme",
+  "Schemas": null,
+  "SelectedHandlebarsLanguage": 2,
+  "SelectedToBeGenerated": 0,
+  "T4TemplatePath": null,
+  "Tables": [
+    {
+      "Name": "[dbo].[Biletler]",
+      "ObjectType": 0
+    },
+    {
+      "Name": "[dbo].[Calisanlar]",
+      "ObjectType": 0
+    },
+    {
+      "Name": "[dbo].[HavaAlani_Arac_Kiralama]",
+      "ObjectType": 0
+    },
+    {
+      "Name": "[dbo].[HavaAlani_Otopark]",
+      "ObjectType": 0
+    },
+    {
+      "Name": "[dbo].[HavaAlanlari]",
+      "ObjectType": 0
+    },
+    {
+      "Name": "[dbo].[Havayollari_Firmalari]",
+      "ObjectType": 0
+    },
+    {
+      "Name": "[dbo].[Otel_Konaklama]",
+      "ObjectType": 0
+    },
+    {
+      "Name": "[dbo].[Ucuslar]",
+      "ObjectType": 0
+    },
+    {
+      "Name": "[dbo].[UcusNo]",
+      "ObjectType": 0
+    },
+    {
+      "Name": "[dbo].[temp_zaman]",
+      "ObjectType": 0
+    },
+    {
+      "Name": "[dbo].[Yolcular]",
+      "ObjectType": 0
+    }
+  ],
+  "UiHint": "localhost.veritabani yonetim sistemleri.dbo",
+  "UncountableWords": null,
+  "UseBoolPropertiesWithoutDefaultSql": false,
+  "UseDatabaseNames": false,
+  "UseDateOnlyTimeOnly": false,
+  "UseDbContextSplitting": false,
+  "UseFluentApiOnly": true,
+  "UseHandleBars": false,
+  "UseHierarchyId": false,
+  "UseInflector": true,
+  "UseLegacyPluralizer": false,
+  "UseManyToManyEntity": false,
+  "UseNoDefaultConstructor": false,
+  "UseNoObjectFilter": false,
+  "UseNodaTime": false,
+  "UseNullableReferences": false,
+  "UseSchemaFolders": false,
+  "UseSchemaNamespaces": false,
+  "UseSpatial": false,
+  "UseT4": true
+}
